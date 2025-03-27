@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+access_token.txt
+sandbox_token.txt
+
 .venv/
 .vscode/
 .env
